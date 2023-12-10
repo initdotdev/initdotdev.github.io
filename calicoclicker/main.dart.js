@@ -47352,7 +47352,7 @@ s=q.r
 r=A.aV(p,q.c,B.j,p,p,p,s,p,p,p,p)
 l=k?p:l-s-4
 n=n?p:o-10
-k=A.rX(A.avK(new A.j(24,24),12,12),B.is,new A.hc("images/ui/panel-border-031.png",p,p),B.br)
+k=A.rX(A.avK(new A.j(24,24),12,12),B.is,new A.hc("assets/images/ui/panel-border-031.png",p,p),B.br)
 return A.aV(p,A.c7(A.a([r,A.aV(p,A.aV(p,q.d,B.j,p,p,p,p,p,p,new A.aw(12,12,12,12),p),B.j,p,p,new A.bC(p,k,p,p,p,p,B.F),l,p,p,new A.aw(2,2,2,2),n)],t.p),B.t,B.A,B.r),B.j,p,m,p,p,p,p,p,o)}}
 A.la.prototype={}
 A.to.prototype={
